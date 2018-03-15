@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/guava/guava.iml" filepath="$PROJECT_DIR$/guava/guava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guava-gwt/guava-gwt.iml" filepath="$PROJECT_DIR$/guava-gwt/guava-gwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guava-parent.iml" filepath="$PROJECT_DIR$/guava-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guava-testlib/guava-testlib.iml" filepath="$PROJECT_DIR$/guava-testlib/guava-testlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guava-tests/guava-tests.iml" filepath="$PROJECT_DIR$/guava-tests/guava-tests.iml" />
+    </modules>
+  </component>
+</project>
